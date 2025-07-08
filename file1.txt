@@ -1,3 +1,6 @@
 * This is my first repository.
 * This is my first file.
 * This is my first practice session.
+
+* adding lines from amazon ec2 server
+* editing files.
